@@ -4,3 +4,8 @@ __pycache__/
 *.pt
 *.pth
 /dataset/
+venv/
+data/
+results/
+visualizations/
+data.zip
